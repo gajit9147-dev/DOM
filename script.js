@@ -12,7 +12,7 @@ submitBtn.addEventListener("click", () => {
     return;
   }
 
-  greeting.textContent = `Hello ${name}`;
+  greeting.textContent = `Hello, ${name}`;
 });
 
 // Box hover color logic
